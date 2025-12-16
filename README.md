@@ -1,1 +1,2 @@
-# project-conflict-merge-my
+hi noga
+this is a readme file
